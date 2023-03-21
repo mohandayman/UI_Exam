@@ -1,0 +1,13 @@
+C:\Users\mohand\Desktop\projec SQL UI\UI\bin\Debug\UI.exe.config
+C:\Users\mohand\Desktop\projec SQL UI\UI\bin\Debug\UI.exe
+C:\Users\mohand\Desktop\projec SQL UI\UI\bin\Debug\UI.pdb
+C:\Users\mohand\Desktop\projec SQL UI\UI\obj\Debug\UI.csproj.AssemblyReference.cache
+C:\Users\mohand\Desktop\projec SQL UI\UI\obj\Debug\UI.csproj.SuggestedBindingRedirects.cache
+C:\Users\mohand\Desktop\projec SQL UI\UI\obj\Debug\UI.Form1.resources
+C:\Users\mohand\Desktop\projec SQL UI\UI\obj\Debug\UI.Properties.Resources.resources
+C:\Users\mohand\Desktop\projec SQL UI\UI\obj\Debug\UI.csproj.GenerateResource.cache
+C:\Users\mohand\Desktop\projec SQL UI\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\Users\mohand\Desktop\projec SQL UI\UI\obj\Debug\UI.exe
+C:\Users\mohand\Desktop\projec SQL UI\UI\obj\Debug\UI.pdb
+C:\Users\mohand\Desktop\projec SQL UI\UI\obj\Debug\UI.Topic.resources
+C:\Users\mohand\Desktop\projec SQL UI\UI\obj\Debug\UI.Exam.resources
